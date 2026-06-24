@@ -1,8 +1,17 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/YRACHEK101/gity-tool/main/assets/logo.png" alt="gity logo" width="180" height="180" />
+
 # gity
 
 **Run multiple GitHub accounts on one machine — with zero identity leakage and no SSH key conflicts.**
+
+[![npm version](https://img.shields.io/npm/v/gity-tool.svg?color=cb3837&logo=npm&label=gity-tool)](https://www.npmjs.com/package/gity-tool)
+[![npm downloads](https://img.shields.io/npm/dm/gity-tool.svg?color=cb3837)](https://www.npmjs.com/package/gity-tool)
+[![CI](https://github.com/YRACHEK101/gity-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/YRACHEK101/gity-tool/actions/workflows/ci.yml)
+[![license](https://img.shields.io/npm/l/gity-tool.svg?color=3b82f6)](https://github.com/YRACHEK101/gity-tool/blob/main/LICENSE)
+
+📦 **[gity-tool on npm](https://www.npmjs.com/package/gity-tool)** — install with `npm i -g gity-tool`
 
 `gity` uses [Git's native conditional includes](https://git-scm.com/docs/git-config#_conditional_includes) so the correct **name, email, and SSH key are chosen automatically based on which folder a repository lives in.** No manual switching. Ever.
 

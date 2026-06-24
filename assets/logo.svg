@@ -1,0 +1,27 @@
+<svg width="480" height="480" viewBox="0 0 480 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="gity — multi-account Git, automatic">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="480" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="0" y="0" width="480" height="480" rx="72" fill="url(#bg)"/>
+
+  <!-- identity-fork: one root -> three colored identities -->
+  <g stroke-linecap="round">
+    <path d="M240 117 C 240 178, 180 168, 180 200" stroke="#64748B" stroke-width="9" fill="none"/>
+    <path d="M240 117 L 240 212" stroke="#64748B" stroke-width="9" fill="none"/>
+    <path d="M240 117 C 240 178, 300 168, 300 200" stroke="#64748B" stroke-width="9" fill="none"/>
+    <circle cx="240" cy="100" r="17" fill="#F8FAFC"/>
+    <circle cx="180" cy="214" r="17" fill="#38BDF8"/>
+    <circle cx="240" cy="228" r="17" fill="#34D399"/>
+    <circle cx="300" cy="214" r="17" fill="#FB923C"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="240" y="362" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="120" font-weight="800" letter-spacing="-3" fill="#F8FAFC">gity</text>
+  <!-- tagline -->
+  <text x="240" y="412" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="500" letter-spacing="0.5" fill="#94A3B8">multi-account Git, automatic</text>
+</svg>

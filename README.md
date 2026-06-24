@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YRACHEK101/gity-tool/main/assets/logo-dark.png">
-  <img src="https://raw.githubusercontent.com/YRACHEK101/gity-tool/main/assets/logo.png" alt="gity" width="240">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YRACHEK101/gity-tool/main/assets/logo.svg">
+  <img src="https://raw.githubusercontent.com/YRACHEK101/gity-tool/main/assets/logo-dark.svg" alt="gity" width="240">
 </picture>
 
 # gity
